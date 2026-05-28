@@ -91,7 +91,7 @@ DOMINIUMM (arquiteto / orchestrador) → projeto executado
 
 ## 🙏 Créditos
 
-Conteúdo baseado no vídeo **"Engenharia de Prompt: Guia definitivo"** de **Bruno Picinini** no YouTube.
+Conteúdo baseado no vídeo [**"Engenharia de Prompt: Guia definitivo"**](https://www.youtube.com/watch?v=1VDcke66TRE) de **Bruno Picinini** no YouTube.
 
 ---
 
